@@ -23,9 +23,18 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpGet]
     public IActionResult FBPage()
     {
-        return View();
+       // create an instance of fizz buzz model 
+        FizzBuzz model = new FizzBuzz();
+
+        // set fizz value  
+        model.FizzValue = 3;
+        // set buzz value 
+        model.BuzzValue = 5;
+        
+        return View(model);
     }
     
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
