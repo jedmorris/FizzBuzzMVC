@@ -1,3 +1,15 @@
+.fizz{
+  color: yellow;
+  font-weight: bold;
+}
+.buzz{
+  color: green;
+  font-weight: bold;
+}
+.fizzbuzz{
+  color: red;
+  font-weight: bolder;
+}
 html {
   font-size: 14px;
 }
