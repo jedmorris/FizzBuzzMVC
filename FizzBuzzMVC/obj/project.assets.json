@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jedmorris/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
+      "projectUniqueName": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
       "projectName": "FizzBuzzMVC",
-      "projectPath": "/Users/jedmorris/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
+      "projectPath": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
       "packagesPath": "/Users/jedmorris/.nuget/packages/",
-      "outputPath": "/Users/jedmorris/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/",
+      "outputPath": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jedmorris/.nuget/NuGet/NuGet.Config"
