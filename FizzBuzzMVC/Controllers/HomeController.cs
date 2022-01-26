@@ -29,14 +29,50 @@ public class HomeController : Controller
        // create an instance of fizz buzz model 
         FizzBuzz model = new FizzBuzz();
 
-        // set fizz value  
+        // set default fizz value  
         model.FizzValue = 3;
-        // set buzz value 
+        // set default buzz value 
         model.BuzzValue = 5;
         
         return View(model);
     }
     
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult FBPage(FizzBuzz fizzBuzz)
+    {
+        List<string> fbItems = new List<string>();
+
+        bool Fizz;
+        bool Buzz;
+
+        for (int i = 1; i <= 100; i++)
+        {
+            Fizz = (i % fizzBuzz.FizzValue == 0);
+            Buzz = (i % fizzBuzz.BuzzValue == 0);
+
+            if (Fizz == true && Buzz == true)
+            {
+                fbItems.Add("FizzBuzz");
+            } 
+            else if (Fizz == true)
+            {
+                fbItems.Add("Fizz");
+            }
+            else if (Buzz == true)
+            {
+                fbItems.Add("Buzz");
+            }
+            else
+            {
+                fbItems.Add(i.ToString());
+            }
+        }
+
+        fizzBuzz.Results = fbItems;
+        
+        return View(fizzBuzz);
+    }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
