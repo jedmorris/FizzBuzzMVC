@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/jedmorris/.nuget/packages/": {}
+    "/Users/slothmanking/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
+      "projectUniqueName": "/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
       "projectName": "FizzBuzzMVC",
-      "projectPath": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
-      "packagesPath": "/Users/jedmorris/.nuget/packages/",
-      "outputPath": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/",
+      "projectPath": "/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/FizzBuzzMVC.csproj",
+      "packagesPath": "/Users/slothmanking/.nuget/packages/",
+      "outputPath": "/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jedmorris/.nuget/NuGet/NuGet.Config"
+        "/Users/slothmanking/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

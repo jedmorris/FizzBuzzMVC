@@ -24,3 +24,81 @@
 /Users/jedmorris/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/ref/FizzBuzzMVC.dll
 /Users/jedmorris/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.pdb
 /Users/jedmorris/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.genruntimeconfig.cache
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/appsettings.Development.json
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/appsettings.json
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.staticwebassets.runtime.json
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.deps.json
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.runtimeconfig.json
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.dll
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/ref/FizzBuzzMVC.dll
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.pdb
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.csproj.AssemblyReference.cache
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.AssemblyInfoInputs.cache
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.AssemblyInfo.cs
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.csproj.CoreCompileInputs.cache
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.RazorAssemblyInfo.cache
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.RazorAssemblyInfo.cs
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/bundle/FizzBuzzMVC.styles.css
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/projectbundle/FizzBuzzMVC.bundle.scp.css
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.dll
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/ref/FizzBuzzMVC.dll
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.pdb
+/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.genruntimeconfig.cache
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/appsettings.Development.json
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/appsettings.json
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.staticwebassets.runtime.json
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.deps.json
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.runtimeconfig.json
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.dll
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/ref/FizzBuzzMVC.dll
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.pdb
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.csproj.AssemblyReference.cache
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.AssemblyInfoInputs.cache
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.AssemblyInfo.cs
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.csproj.CoreCompileInputs.cache
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.RazorAssemblyInfo.cache
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.RazorAssemblyInfo.cs
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/staticwebassets.build.json
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/staticwebassets.development.json
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/bundle/FizzBuzzMVC.styles.css
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/projectbundle/FizzBuzzMVC.bundle.scp.css
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.dll
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/ref/FizzBuzzMVC.dll
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.pdb
+/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.genruntimeconfig.cache
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/appsettings.Development.json
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/appsettings.json
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.staticwebassets.runtime.json
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.deps.json
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.runtimeconfig.json
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.dll
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/ref/FizzBuzzMVC.dll
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/bin/Debug/net6.0/FizzBuzzMVC.pdb
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.csproj.AssemblyReference.cache
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.AssemblyInfoInputs.cache
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.AssemblyInfo.cs
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.csproj.CoreCompileInputs.cache
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.RazorAssemblyInfo.cache
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.RazorAssemblyInfo.cs
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/staticwebassets.build.json
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/staticwebassets.development.json
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/bundle/FizzBuzzMVC.styles.css
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/scopedcss/projectbundle/FizzBuzzMVC.bundle.scp.css
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.dll
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/ref/FizzBuzzMVC.dll
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.pdb
+/Users/slothmanking/Documents/Projects/CoderFoundry/atlas/FizzBuzzMVC/FizzBuzzMVC/obj/Debug/net6.0/FizzBuzzMVC.genruntimeconfig.cache
